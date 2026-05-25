@@ -144,10 +144,7 @@ Também tenho familiaridade com ferramentas de desenvolvimento com IA como Claud
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusCsetneky&show_icons=true&theme=dracula&include_all_commits=true"
   />
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViniciusCsetneky&layout=compact&theme=dracula"
-  />
+
 </p>
 
 <br/>
