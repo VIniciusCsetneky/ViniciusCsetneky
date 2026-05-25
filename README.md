@@ -138,22 +138,16 @@ Também tenho familiaridade com ferramentas de desenvolvimento com IA como Claud
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciusCsetneky&show_icons=true&theme=dracula&include_all_commits=true&locale=en" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusCsetneky&show_icons=true&theme=dracula&include_all_commits=true"
   />
 
-<img 
-      align="left" 
-      alt="Top Languages" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCsetneky&theme=dracula&layout=compact&custom_title=Technologies&langs_count=8" 
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCsetneky&layout=compact&theme=dracula"
   />
-
 </p>
 
 <br/>
