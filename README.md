@@ -21,7 +21,7 @@ Hoje trabalho principalmente com o ecossistema .NET, aplicações React e sistem
 Também tenho familiaridade com ferramentas de desenvolvimento com IA como Claude Code, GitHub Copilot e Blackbox, utilizando essas tecnologias para produtividade, debugging e apoio em arquitetura de software.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/vinicius-csetneky">
+    <a href="https://www.linkedin.com/in/vinicius-csetneky-71ab45180/">
         <img 
             alt="LinkedIn" 
             title="Connect on LinkedIn" 
